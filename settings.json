@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "DARQ_eah-MS4j.aternos.me",
+    "port": 43209,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        /register 091531183 091531183
       ]
     },
     "chat-log": true,
