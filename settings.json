@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DARQ_eah-MS4j.aternos.me",
+    "ip": "hmdonutsmp.aternos.me",
     "port": 43209,
     "version": "26.1.2",
     "try-creative": false
@@ -20,20 +20,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "091531183"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        /register 091531183 091531183
-      ]
-    },
+  
+    
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
